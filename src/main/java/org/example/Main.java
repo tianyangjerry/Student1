@@ -3,6 +3,7 @@ package org.example;
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
+
         Student student = new Student();
         System.out.println("What is your name?");
         Scanner scanner1 = new Scanner(System.in);
